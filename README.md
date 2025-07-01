@@ -1,5 +1,8 @@
 Smart Pin Trash: Automatic Waste Classification System
+
+
 🚀 Project Overview
+
 Smart Pin Trash is an innovative automatic waste classification system developed by a team of students from Helwan University. The system intelligently sorts waste into metallic and non-metallic categories using embedded systems technology. It incorporates multiple ATmega32 microcontrollers, ultrasonic sensors, and an inductive proximity sensor to detect both the type and proximity of waste — enabling efficient and reliable waste management.
 
 🔑 Key Features
